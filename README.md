@@ -1,4 +1,4 @@
-# Bank Customer Churn: EDA, Dashboarding, Machine Learning and Deep Learning
+# Bank Customer Churn: EDA, Dashboarding, Predictive Modeling
 
 ## Overview
 
@@ -19,7 +19,7 @@ To run the project locally:
 
 1- Clone the project repository: ```git clone <repository-url>``` and ```cd bank_customer_churn_prediction```.
 
-2- Install dependencies: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, TensorFlow/Keras, Flask, Power BI.
+2- Install dependencies: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost, TensorFlow/Keras, Flask, and Power BI.
 
 3- Explore data and run Jupyter Notebooks (EDA, Preprocessing, and Model Training): Navigate to the ```Dataset and Notebooks``` folder and run ```jupyter notebook_name.ipynb```.
 
